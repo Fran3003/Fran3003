@@ -2,8 +2,7 @@
 <h3 align="center">A passionate full-stack Developer</h3>
 
 - 🔭 I’m currently working on **EasyLearning**
-
-- 👯 I’m looking to collaborate on [EasyLearning](https://github.com/diazjoaquin/EasyLearning-FP)
+[EasyLearning](https://github.com/diazjoaquin/EasyLearning-FP)
 
 - 📫 How to reach me **franco.rantucho@gmail.com**
 
