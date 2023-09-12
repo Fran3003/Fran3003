@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Emanuel Rantucho</h1>
 <h3 align="center">A passionate full-stack Developer</h3>
 
-- 🔭 I’m currently working on **EasyLearning**
-[EasyLearning](https://github.com/diazjoaquin/EasyLearning-FP)
+- 🔭 Currently looking for a job and working on personal projects 
 
 - 📫 How to reach me **franco.rantucho@gmail.com**
 
